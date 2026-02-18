@@ -80,5 +80,8 @@ UXを重視した、高速で堅牢なアプリケーション構築。
 * **Zenn**: [Zenn Link (技術記事)](https://zenn.dev/motomiki/articles/f813c272765f39))
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=motomiki&show_icons=true&theme=radical" alt="motomiki's GitHub Stats" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </div>
