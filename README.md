@@ -80,5 +80,5 @@ UXを重視した、高速で堅牢なアプリケーション構築。
 * **Zenn**: [Zenn Link (技術記事)](https://zenn.dev/motomiki/articles/f813c272765f39))
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=motomiki&show_icons=true&theme=radical" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=motomiki&show_icons=true&theme=radical" alt="motomiki's GitHub Stats" />
 </div>
