@@ -39,7 +39,7 @@ UXを重視した、高速で堅牢なアプリケーション構築。
 
 | Category | Technologies |
 | :--- | :--- |
-| **AI / LLM** | ![Ollama](https://img.shields.io/badge/-Ollama-333?style=flat&logo=ollama&logoColor=white) **Gemini (Canvas)**, OpenAI API, Dify, RAG |
+| **AI / LLM** | ![Ollama](https://img.shields.io/badge/-Ollama-333?style=flat&logo=ollama&logoColor=white) Gemini, OpenAI API, Dify, RAG |
 | **Frontend** | ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) Chrome Extension API, Tailwind CSS |
 | **Backend / DB** | ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) Google Apps Script (GAS), Node.js, Firebase |
 | **Infrastructure** | Google Cloud, Google Workspace, Docker |
@@ -77,10 +77,8 @@ UXを重視した、高速で堅牢なアプリケーション構築。
 ## 📫 Contact
 「技術的な実装」だけでなく、「組織へのAI導入・定着」についてもお気軽にご相談ください。
 
-* **Portfolio**: [Link to Portfolio]
 * **Zenn**: [Zenn Link (技術記事)](https://zenn.dev/motomiki/articles/f813c272765f39))
-* **X (Twitter)**: [@YourTwitterHandle]
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=motomiki&show_icons=true&theme=radical" alt="Stats" />
 </div>
