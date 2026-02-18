@@ -78,7 +78,7 @@ UXを重視した、高速で堅牢なアプリケーション構築。
 「技術的な実装」だけでなく、「組織へのAI導入・定着」についてもお気軽にご相談ください。
 
 * **Portfolio**: [Link to Portfolio]
-* **Zenn**: [Zenn Link (技術記事)]([https://www.nerikids.tokyo/](https://zenn.dev/motomiki/articles/f813c272765f39))
+* **Zenn**: [Zenn Link (技術記事)](https://zenn.dev/motomiki/articles/f813c272765f39))
 * **X (Twitter)**: [@YourTwitterHandle]
 
 <div align="center">
